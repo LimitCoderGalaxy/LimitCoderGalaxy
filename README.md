@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**LimitCoderGalaxy/LimitCoderGalaxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Heres Some Things About Me!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: Things Such as (Discord Bot's, Websites for the Discord bot's, Making a Game, Just Programming Around)
+- 🌱 I’m currently learning: Pretty much anything to this point.
+- 💬 About me: I love to do things such as (Programming, Making a Game, Working on Discord Bot's, Playing Games, Enjoying Walk's, Spending time with people i love)
+- 😄 Pronouns: He/Him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Other things i will be working on:
+- Making a Website
+- Updating my Discord Bot
+- Makeing Games
+- Playing Around With Code
