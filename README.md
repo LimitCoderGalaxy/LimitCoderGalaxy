@@ -7,7 +7,7 @@ Heres Some Things About Me!
 - 💬 About me: I love to do things such as (Programming, Making a Game, Working on Discord Bot's, Playing Games, Enjoying Walk's, Spending time with people i love)
 - 😄 Pronouns: He/Him
 
-- Other things i will be working on:
+- ---Other things i will be working on---
 - Making a Website
 - Updating my Discord Bot
 - Makeing Games
